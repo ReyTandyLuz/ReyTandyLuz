@@ -9,12 +9,12 @@
 
 <h2>Os meus contributos em Github:</h4>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=tokyo-night&custom_title=Contributos%20de%20ReyTandyLuz)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ReyTandyLuz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ReyTandyLuz&theme=tokyo-night&custom_title=Contributos%20de%20ReyTandyLuz)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![ReyTandyLuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReyTandyLuz&show_icons=true&theme=tokyonight)
 
 <h2>As linguagens que mais uso:</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyTandyLuz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyTandyLuz&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   <h2>Sub-Linguagens que uso:</h3>
 
